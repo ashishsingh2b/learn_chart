@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.chart_heading {
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+}
